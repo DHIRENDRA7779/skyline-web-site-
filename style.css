@@ -179,23 +179,23 @@ main {
    11. HEADINGS
 ===================================================== */
 h1 {
-    color: #fdfafa;
+    color: #0e0101;
     font-size: 36px;
 }
 h2 {
-    color: #f7f3f3;
+    color: #080101;
     font-size: 25px;
     margin-top: 20px;
 }
 h3 {
-    color: #f8f4f4;
+    color: #0a0101;
     font-size: 20px;
 }
 /* =====================================================
    12. PARAGRAPHS
 ===================================================== */
 p {
-    color: #faf9f9;
+    color: #0c0101;
     font-size: 16px;
     line-height: 1.8;
 }
@@ -219,7 +219,7 @@ select {
     margin-top: 8px;
     border: 1px solid #cccccc;
     border-radius: 4px;
-    background-color: #ffffff;
+    background-color: #e6dada;
     color: #000000;
     font-size: 16px;
 }
